@@ -92,7 +92,7 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadali74&theme=transparent&hide_border=true)](https://git.io/streak-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadali74a&layout=compact&theme=transparent&hide_border=true)](https://github.com/muhammadali74/github-readme-stats)
 
-[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annarhysa&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/Annarhysa)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadali74&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/muhammadali74)
 </p>
   </div>
 
