@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Machine+Learning;Computer+Vision;Coder+💻;)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=muhammadali74a&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
   👀 I am CS student pursuing minors in ECE and Mathematics <br>
   🤖 My interests lie in Machine Learning, Computer Vision and High-Performance Machine Learning <br>
