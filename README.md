@@ -1,6 +1,7 @@
 <h1> Hey, I’m Muhammad Ali </h1>
 
-<img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
+<img src="./images/coding-guy.png" width="32%" alt="vector" align="right">
+<a href="https://lovepik.com/images/png-hacking.html">Hacking Png vectors by Lovepik.com</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Machine+Learning;Computer+Vision;Coder+💻;)](https://git.io/typing-svg)
 
