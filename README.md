@@ -2,7 +2,7 @@
 
 <img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👩‍🔬;Up+and+Coming+Analyst+📊;Coder+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Machine+Learning;Computer+Vision;Coder+💻;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Annarhysa&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
@@ -96,26 +96,8 @@
 </p>
   </div>
 
-## 🔝 Top Repositories
-<div align = "center">
-<a href="https://github.com/Annarhysa/Book-Recommendation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Book-Recommendation&theme=transparent" />
-</a>
-<a href="https://github.com/Annarhysa/Stock-Market-Advisor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Stock-Market-Advisor&theme=transparent" />
-</a>
-<a href="https://github.com/Annarhysa/Code-Translator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=Code-Translator&theme=transparent" />
-</a>
-<a href="https://github.com/Annarhysa/CareerWise">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Annarhysa&repo=CareerWise&theme=transparent" />
-</a>
-</div>
 
-<!---
-Annarhysa/Annarhysa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <!---
 muhammadali74/muhammadali74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
