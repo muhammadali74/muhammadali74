@@ -1,9 +1,9 @@
 <h1> Hey, I’m Muhammad Ali </h1>
 
 <img src="./images/coding-guy.png" width="32%" alt="vector" align="right">
-<a href="https://lovepik.com/images/png-hacking.html">Hacking Png vectors by Lovepik.com</a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Machine+Learning;Computer+Vision;Coder+💻;)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&colo=blue&vCenter=true&lines=Machine+Learning;Computer+Vision;Coder+💻;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=muhammadali74a&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
@@ -91,7 +91,7 @@
   </div>
 
 
-
+<a href="https://lovepik.com/images/png-hacking.html">vector by Lovepik.com</a>
 <!---
 muhammadali74/muhammadali74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
