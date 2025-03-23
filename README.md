@@ -9,8 +9,6 @@
 <div align = "left">
   👀 I am CS student pursuing minors in ECE and Mathematics <br>
   🤖 My interests lie in Machine Learning, Robotics and Computer Vision <br>
-  🫂 Looking for a collaborator on DS and ML projects<br> 
-  📖 looking for opportunities for research internships in Machine Learning<br>
   📫 alimuhammad7465@gmail.com <br> 
   🕸️ <a href = "https://www.linkedin.com/in/muhammad-a1i/">My Resume</a>
 
