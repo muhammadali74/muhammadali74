@@ -3,13 +3,13 @@
 <img src="./images/coding-guy.png" width="32%" alt="vector" align="right">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&colo=blue&vCenter=true&lines=Machine+Learning;Computer+Vision;Robotics+💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&colo=blue&vCenter=true&lines=Machine+Learning;Computer+Vision;Robotics;AGI+💻;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=muhammadali74a&style=flat-square&color=blue" alt="Profile views"/>
 <div align = "left">
-  👀 I am CS student pursuing minors in ECE and Mathematics <br>
+  👀 I am Computer Science student pursuing minors in ECE and Mathematics <br>
   🤖 My interests lie in Machine Learning, Robotics and Computer Vision <br>
-  📫 alimuhammad7465@gmail.com <br> 
+  📫 Interested in collaborating? Reach me out at alimuhammad7465@gmail.com <br> 
   🕸️ <a href = "https://www.linkedin.com/in/muhammad-a1i/">My Resume</a>
 
   </div>
@@ -18,7 +18,7 @@
 <br>
 
 <div id="badges" align = "center">
-
+<h3> Connect with Me </h3>
   <a href="https://www.linkedin.com/in/muhammad-a1i/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
