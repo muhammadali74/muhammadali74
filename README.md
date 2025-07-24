@@ -9,7 +9,7 @@
 <div align = "left">
   👀 I am Computer Science student pursuing minors in ECE and Mathematics <br>
   🤖 My interests lie in Machine Learning, Robotics and Computer Vision <br>
-  📫 Interested in collaborating? Reach me out at alimuhammad7465@gmail.com <br> 
+<!--   📫 Interested in collaborating? Reach me out at alimuhammad7465@gmail.com <br>  -->
 <!--   🕸️ <a href = "https://www.linkedin.com/in/muhammad-a1i/">My Resume</a> -->
 
   </div>
