@@ -10,7 +10,7 @@
   👀 I am Computer Science student pursuing minors in ECE and Mathematics <br>
   🤖 My interests lie in Machine Learning, Robotics and Computer Vision <br>
   📫 Interested in collaborating? Reach me out at alimuhammad7465@gmail.com <br> 
-  🕸️ <a href = "https://www.linkedin.com/in/muhammad-a1i/">My Resume</a>
+<!--   🕸️ <a href = "https://www.linkedin.com/in/muhammad-a1i/">My Resume</a> -->
 
   </div>
 <br>
@@ -18,10 +18,10 @@
 <br>
 
 <div id="badges" align = "center">
-<h3> Connect with Me </h3>
-  <a href="https://www.linkedin.com/in/muhammad-a1i/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<!-- <h3> Connect with Me </h3> -->
+<!--   <a href="https://www.linkedin.com/in/muhammad-a1i/"> -->
+<!--     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
+<!--   </a> -->
 <!--   <a href="https://linktr.ee/anna_albert">
    <img src="https://img.shields.io/badge/Linktree-acdc5c?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Badge"/>
   </a>
